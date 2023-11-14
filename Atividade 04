@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+</head>
+<body>
+    <h2> Exemplo de tabela </h2>
+    <table border="1">
+        <tr>
+            <td>Nome</td>
+            <td>Idade</td>
+            <td>Cidade</td>
+        </tr>
+
+        <tr>
+            <td>Adriano</td>
+            <td>40</td>
+            <td>Mossoró-RN</td>
+            </tr>
+        </tr>
+        <td>Débora</td>
+        <td>40</td>
+        <td>Anapolis</td>
+    </tr>
+    <td>Sousa</td>
+    <td>22</td>
+    <td>Araguaia-To</td>
+
+        
+    </table>
+</body>
+</html>
+
