@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Autocuidado pessoal: imagens para inspiração</title>
+</head>
+<body>
+
+  <header>
+    <h1>Autocuidado pessoal: imagens para inspiração</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Introdução</h2>
+      <p>
+        O autocuidado pessoal é importante para a saúde física e mental. É uma forma de cuidar de si mesmo, tanto física quanto emocionalmente. Existem muitas maneiras de praticar o autocuidado, incluindo:
+
+        * Exercício físico
+        * Alimentação saudável
+        * Sono suficiente
+        * Tempo de lazer
+        * Relaxamento
+        * Conexão com os outros
+      </p>
+    </section>
+
+    <section>
+      <h2>Imagens</h2>
+
+      <ul>
+        <li>
+          <h3>Exercício físico</h3>
+          <img src="exercicio-fisico.jpg" alt="Imagem de uma pessoa correndo em um parque">
+        </li>
+        <li>
+          <h3>Alimentação saudável</h3>
+          <img src="alimentacao-saudavel.jpg" alt="Imagem de uma pessoa preparando uma salada">
+        </li>
+        <li>
+          <h3>Sono suficiente</h3>
+          <img src="sono-suficiente.jpg" alt="Imagem de uma pessoa dormindo em uma cama confortável">
+        </li>
+        <li>
+          <h3>Tempo de lazer</h3>
+          <img src="tempo-de-lazer.jpg" alt="Imagem de uma pessoa lendo um livro">
+        </li>
+        <li>
+          <h3>Relaxamento</h3>
+          <img src="relaxamento.jpg" alt="Imagem de uma pessoa fazendo uma massagem">
+        </li>
+        <li>
+          <h3>Conexão com os outros</h3>
+          <img src="conexao-com-os-outros.jpg" alt="Imagem de uma família reunida">
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Conclusão</h2>
+      <p>
+        O autocuidado pessoal é uma jornada individual. O que funciona para uma pessoa pode não funcionar para outra. O importante é encontrar o que funciona para você e fazer o que é melhor para sua saúde e bem-estar.
+      </p>
+    </section>
+  </main>
+
+</body>
+</html>
