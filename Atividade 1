@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <title>Atividade 1</title>
+</head>
+<body>
+  <header>
+    <h1 style="text-align: center;">Atividade 1</h1>
+    <h1 style="text-align: center;">Os cachorros e animais domesticos</h1>
+  </header>
+
+  <section>
+    <h1 style="text-align: center;">Os cachorros são animias doceis e precisa de bastante atenção pois se sente sozinhos.</p>
+    <h1 style="text-align: center;">Os animais precisa ser alimentados diariamente e precisa está com água limpa.</p>
+  </section>
+
+<section style="display: flex; align-content: center;">
+    <img src="./cachorro.jpg" style="src: center; alt="Imagem 1" alt="cachorro" width="700">
+    </section>
+    <section style="display: flex; align-content: center;">
+    <img src="https://fisiocarepet.com.br/wp-content/uploads/2022/02/cachorro.png" alt="Imagem 2" alt="cachorro" width="700">
+  </section>
+</body>
+</html>
+
