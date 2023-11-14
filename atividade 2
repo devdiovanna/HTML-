@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <!-- Titulo de primeiro nivel -->
+  <h1>Titulo Principal da Página</h1>
+
+  <!-- Titulo de segundo nivel -->
+  <h2>Subtitulo 2</h2>
+
+  <!-- Titulo de terceiro nivel -->
+  <h3>Subtitulo 3</h3>
+
+  <!-- Titulo de quarto nivel -->
+  <h4>Subtitulo 4</h4>
+
+  <!-- Titulo de quinto nivel -->
+  <h5>Subtitulo 5</h5>
+
+  <p>
+    Estou estudando Html com a <strong>html</strong> com a <strong></strong><em>
+        <Soulcode></Soulcode>
+    </em></em></p> <!--testes em geral-->
+  </p>
+  <!-- Titulo de sexto nivel -->
+  <h6>Subtitulo 6</h6>
+  <p> Lorem, ipsum dolor sit, amet consest </p>
+</p>
+<img src="./plano-de-fundo.png" alt="Barquinho na praia" width="500">
+
+<img src="https://ciclovivo.com.br/wp-content/uploads/2018/10/iStock-536613027.jpg" alt="papagaio" width="500">
+
+<img src="https://t.ctcdn.com.br/Pp8AcSBhklh28T5N1v1HYG5esJ4=/768x432/smart/i257652.jpeg" alt="arara" width="500">
+
+<video src="https://youtu.be/KlIL63MeyMY?si=v1OHT5ehDae6yDcr" width="500" height="480" controls autoplay loop>
+<p>Seu navegador não suporta vídeos.</p>
+</video>
+</p>
+<a href="https://www.devmedia.com.br/pro/?utm_source=Google+Ads&utm_medium=search&utm_campaign=Pesquisa&gclid=CjwKCAiA0syqBhBxEiwAeNx9N25CWdq_znVgPC7G8KVfDX_EL661Ns8enGxRSUfOa7SkcTuT1_SKURoCQccQAvD_BwE">Link de Programação em texto</a>
+</body>
+
+</html>
