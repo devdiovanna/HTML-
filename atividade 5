@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulários</title>
+</head>
+
+<body>
+  <!-- Cabeçalho da Página -->
+  <header>
+    <h1>Home</h1>
+
+    <!-- Menu de Navegação -->
+    <nav>
+      <a href="">Blog</a>
+      <a href="">FAQ</a>
+      <a href="">Login</a>
+    </nav>
+  </header>
+
+  <!-- Conteúdo Principal da Página -->
+  <main>
+    <!-- Subseção da Página -->
+    <section>
+      <h2>Sobre este site</h2>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quasi numquam similique incidunt optio accusamus sequi harum, vero facilis hic. Explicabo ut minima nam dolorum, corrupti voluptate. Provident, earum soluta.
+      </p>
+    </section>
+
+    <section>
+      <h2>Depoimentos</h2>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloribus consectetur tempore soluta, amet perspiciatis voluptates dolores animi tempora deleniti molestiae sit corporis earum rerum velit maiores laboriosam ullam odit praesentium.
+      </p>
+    </section>
+  </main>
+
+  <nav>
+    <a href="https://www.google.com/">Google</a>
+  </nav>
+
+  <!-- Rodapé da Página -->
+  <footer>
+    <p>SoulCode.com Todos os direitos reservados.</p>
+  </footer>
+</body>
+
+</html>
